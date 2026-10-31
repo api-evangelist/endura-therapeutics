@@ -64,17 +64,35 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Endura Therapeutics is an RNA covalency biotech focused on developing small‑molecule drugs that form a durable bond with messenger RNA, blocking translation and knocking down disease‑causing proteins. Leveraging gene‑level precision akin to CRISPR, the company aims to create oral therapeutics that target previously undruggable pathways with high specificity and safety.
+Endura Therapeutics is an RNA‑covalency biotech company developing small‑molecule drugs that form a durable covalent bond with messenger RNA, blocking translation of disease‑causing proteins. Leveraging gene‑level precision comparable to CRISPR, Endura’s platform enables oral therapeutics that knock down pathogenic proteins at the source, making RNA druggable and addressing targets previously considered undruggable.
 
-**Areas:** Company · Biotech · RNA · Small-Molecule · Therapeutics
+**Areas:** Company · Biotech · RNA therapeutics · Drug discovery · Precision medicine · Small molecules
 
 ## Endura Therapeutics on APIs.io
 
 Everything profiled for Endura Therapeutics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/endura-therapeutics/](https://apis.io/providers/endura-therapeutics/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Endura Therapeutics API](https://apis.io/apis/endura-therapeutics/endura-therapeutics-api/) — Private API requiring authentication; no public OpenAPI spec available.
+
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Overlays (9)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Endura Therapeutics Dashboard_Enduratx_Com Openapi.Json Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-dashboard_enduratx_com-openapi.json-overlay/)
+- [Endura Therapeutics Dashboard_Enduratx_Com Openapi.Yaml Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-dashboard_enduratx_com-openapi.yaml-overlay/)
+- [Endura Therapeutics Dashboard_Enduratx_Com Swagger.Json Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-dashboard_enduratx_com-swagger.json-overlay/)
+- [Endura Therapeutics Enduratx_Com Openapi.Json Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-enduratx_com-openapi.json-overlay/)
+- [Endura Therapeutics Enduratx_Com Openapi.Yaml Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-enduratx_com-openapi.yaml-overlay/)
+- [Endura Therapeutics Enduratx_Com Swagger.Json Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-enduratx_com-swagger.json-overlay/)
+- [Endura Therapeutics Portal_Enduratx_Com Openapi.Json Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-portal_enduratx_com-openapi.json-overlay/)
+- [Endura Therapeutics Portal_Enduratx_Com Openapi.Yaml Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-portal_enduratx_com-openapi.yaml-overlay/)
+- [Endura Therapeutics Portal_Enduratx_Com Swagger.Json Overlay](https://apis.io/overlays/endura-therapeutics/endura-therapeutics-portal_enduratx_com-swagger.json-overlay/)
 
 #### Security (1)
 
@@ -87,21 +105,20 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://enduratx.com)
-- [Documentation](https://enduratx.com/#technology)
 - [Blog](https://enduratx.com/blog)
 - [Privacy policy](https://enduratx.com/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 8.5** — minimal · rubric 0.24.0 · scored 2026-10-29
+**Kin Score 7.5** — minimal · rubric 0.25.0 · scored 2026-10-29
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 57.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 11.9 |
+| Developer ergonomics | 2.4 |
 | Access clarity | 10.5 |
 
 **Agent readiness 3.1** — human-only
@@ -127,6 +144,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
 
 **Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
 
